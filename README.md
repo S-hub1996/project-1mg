@@ -2,6 +2,7 @@
 Tata 1mg
 
 We have cloned this website using Html CSS and JavaScript.
+![image](https://user-images.githubusercontent.com/94439105/171359502-4fd575c1-bb03-4620-bacc-7cc366aec911.png)
 
 
 
